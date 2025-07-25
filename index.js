@@ -42,7 +42,6 @@ I’ve attached my resume for your review. If there are any current or upcoming 
 
 Best regards,  
 Ahmed Mohamed Nabil  
-+2010-9971-1431  
 ahmednabil707i@gmail.com  
 LinkedIn: (https://linkedin.com/in/ahmed-nabil-b0lb0l)
 
