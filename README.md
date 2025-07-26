@@ -88,9 +88,6 @@ LinkedIn: (https://linkedin.com/in/ahmed-nabil-b0lb0l)
 
 ## 💡 Why I Built This
 
-> الحمد لله ربنا رزقني بالعلم والمعرفة اللي تخليني أعمل حاجة زي كده، وإن شاء الله مش هيضيع تعبي.  
-> اللهم زدني علمًا ونفعًا.
-
 I wanted to simplify the process of professional outreach while keeping it personal and relevant.  
 This script reflects the hustle, the mindset, and the automation that cybersecurity professionals often need.
 
